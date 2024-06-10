@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "engines": {
+    "node": "20.x",
     "pnpm": "9.0.5"
   },
   "packageManager": "pnpm@9.0.5",
